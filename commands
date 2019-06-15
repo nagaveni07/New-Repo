@@ -1,0 +1,14 @@
+git clone ---> copy the file of the target repository
+
+touch filename---> used to create a file in repository
+
+git status---> to know the files locations
+
+git add filename ---> adding file from workspace to index area
+
+git commit -m "message" ---> commit the files from index area to local repo
+
+git log ---> to see the logs and commit ids which we are commmited in local repo
+
+git push ---> to push the file to central repository
+
