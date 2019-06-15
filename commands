@@ -11,4 +11,7 @@ git commit -m "message" ---> commit the files from index area to local repo
 git log ---> to see the logs and commit ids which we are commmited in local repo
 
 git push ---> to push the file to central repository
+git pull---> pull any changes from central repository
+gti log -5 ---> shows recent 5 commits 
+
 
